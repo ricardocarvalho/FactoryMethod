@@ -1,0 +1,16 @@
+D:\Design Patterns\FactoryMethod\FactoryMethod\FactoryMethod\bin\Debug\net5.0\FactoryMethod.exe
+D:\Design Patterns\FactoryMethod\FactoryMethod\FactoryMethod\bin\Debug\net5.0\FactoryMethod.deps.json
+D:\Design Patterns\FactoryMethod\FactoryMethod\FactoryMethod\bin\Debug\net5.0\FactoryMethod.runtimeconfig.json
+D:\Design Patterns\FactoryMethod\FactoryMethod\FactoryMethod\bin\Debug\net5.0\FactoryMethod.runtimeconfig.dev.json
+D:\Design Patterns\FactoryMethod\FactoryMethod\FactoryMethod\bin\Debug\net5.0\FactoryMethod.dll
+D:\Design Patterns\FactoryMethod\FactoryMethod\FactoryMethod\bin\Debug\net5.0\ref\FactoryMethod.dll
+D:\Design Patterns\FactoryMethod\FactoryMethod\FactoryMethod\bin\Debug\net5.0\FactoryMethod.pdb
+D:\Design Patterns\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\net5.0\FactoryMethod.csprojAssemblyReference.cache
+D:\Design Patterns\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\net5.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Design Patterns\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\net5.0\FactoryMethod.AssemblyInfoInputs.cache
+D:\Design Patterns\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\net5.0\FactoryMethod.AssemblyInfo.cs
+D:\Design Patterns\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\net5.0\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\Design Patterns\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\net5.0\FactoryMethod.dll
+D:\Design Patterns\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\net5.0\ref\FactoryMethod.dll
+D:\Design Patterns\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\net5.0\FactoryMethod.pdb
+D:\Design Patterns\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\net5.0\FactoryMethod.genruntimeconfig.cache
